@@ -15,7 +15,7 @@ En esta visualización, hemos analizado la duración media del reinado de los em
 
 ### Causas de Muerte de los Emperadores
 
-![duracion por Dinastia y Era](images/era_dinastia.png)
+![duracion por Dinastia y Era](img/era_dinastia.png)
 
 Esta gráfica muestra la duracion del reinado segun la era en la que se encontrabran y la dinastia a la que pertenecian.
 
@@ -25,15 +25,15 @@ Aquí presentamos algunos resultados destacados del análisis:
 
 ### Duración Media del Reinado
 
-Durante el período analizado, la duración media del reinado de los emperadores romanos fue de aproximadamente 5 años.
+Durante el período analizado, la duración media del reinado de los emperadores romanos fue de aproximadamente <span style="font-size: 1.5em; font-weight: bold; color: red;">8</span> años, que varía en funcion de la Era en la que nos encontremos. Para el Principado, la edad media era de aproximadamente <span style="font-size: 1.5em; font-weight: bold; color: red;">6</span> años, mientras que para el Dominado subia casi al doble.
 
 ### Causa de Muerte más Común
 
-La causa de muerte más común entre los emperadores romanos fue el asesinato, que representó aproximadamente el 40% de las muertes.
+La causa de muerte más común entre los emperadores romanos varía notablemente de nuevo con el cambio de Era, para el Principado, el asesinato representaba casi la mitad de las muertes de los emperadores, mientras que en el Dominado, la enfermedad era la principal causa de la muerte. Aun así, y para ambos períodos, los principales causantes de la muerte eran candidatos a emperador, o bien los ejercitos tanto propio como enemigo.
 
 ### Dinastía más Duradera
 
-La dinastía XYZ se destacó con la duración media más larga del reinado, alcanzando un promedio de 10 años en el poder.
+La dinastía de los Teodosianos se destacó con la duración media más larga del reinado, alcanzando un promedio de 16 años en el poder. También fue la última dinastía en gobernar el imperio romano de Occidente. Un hecho que llama la atención es que cuanto más se acercaba el imperio occidental a su disolución, más duraban los emperadores en el poder. 
 
 ## Conclusiones
 
