@@ -25,19 +25,15 @@ Aquí presentamos algunos resultados destacados del análisis:
 
 ### Duración Media del Reinado
 
-Durante el período analizado, la duración media del reinado de los emperadores romanos fue de aproximadamente
-<span style="font-size: 1.5em; font-weight: bold; color: red;">8</span>
-años, que varía en funcion de la Era en la que nos encontremos. Para el Principado, la edad media era de aproximadamente
-<span style="font-size: 1.5em; font-weight: bold; color: red;">6</span>
-años, mientras que para el Dominado subia casi al doble.
+Durante el período analizado, la duración media del reinado de los emperadores romanos fue de aproximadamente **8 años**, que varía en funcion de la Era en la que nos encontremos. Para el Principado, la edad media era de aproximadamente **6 años**, mientras que para el Dominado subía casi al doble.
 
 ### Causa de Muerte más Común
 
-La causa de muerte más común entre los emperadores romanos varía notablemente de nuevo con el cambio de Era, para el Principado, el asesinato representaba casi la mitad de las muertes de los emperadores, mientras que en el Dominado, la enfermedad era la principal causa de la muerte. Aun así, y para ambos períodos, los principales causantes de la muerte eran candidatos a emperador, o bien los ejercitos tanto propio como enemigo.
+La causa de muerte más común entre los emperadores romanos varía notablemente de nuevo con el cambio de Era, para el Principado, el **asesinato** representaba casi la mitad de las muertes de los emperadores, mientras que en el Dominado, la **enfermedad** era la principal causa de la muerte. Aun así, y para ambos períodos, los principales causantes de la muerte eran candidatos a emperador, o bien los ejercitos tanto propio como enemigo.
 
 ### Dinastía más Duradera
 
-La dinastía de los Teodosianos se destacó con la duración media más larga del reinado, alcanzando un promedio de 16 años en el poder. También fue la última dinastía en gobernar el imperio romano de Occidente. Un hecho que llama la atención es que cuanto más se acercaba el imperio occidental a su disolución, más duraban los emperadores en el poder. 
+La dinastía de los Teodosianos se destacó con la duración media más larga del reinado, alcanzando un promedio de **16 años** en el poder. También fue la última dinastía en gobernar el imperio romano de Occidente. Un hecho que llama la atención es que cuanto más se acercaba el imperio occidental a su disolución, más duraban los emperadores en el poder. 
 
 ## Conclusiones
 
