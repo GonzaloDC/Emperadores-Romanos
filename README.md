@@ -19,6 +19,14 @@ En esta visualización, hemos analizado la duración media del reinado de los em
 
 Esta gráfica muestra la duracion del reinado segun la era en la que se encontrabran y la dinastia a la que pertenecian.
 
+### Causas de Muerte de los Emperadores por Eras
+
+![Causas de muerte por Era](img/causas de muerte.png)
+
+### Causante de Muerte de los Emperadores por Eras
+
+![Causante de muerte por Era](img/causante de muerte.png)
+
 ## Resultados Destacados
 
 Aquí presentamos algunos resultados destacados del análisis:
