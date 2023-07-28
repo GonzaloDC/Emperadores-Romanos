@@ -25,7 +25,11 @@ Aquí presentamos algunos resultados destacados del análisis:
 
 ### Duración Media del Reinado
 
-Durante el período analizado, la duración media del reinado de los emperadores romanos fue de aproximadamente <span style="font-size: 1.5em; font-weight: bold; color: red;">8</span> años, que varía en funcion de la Era en la que nos encontremos. Para el Principado, la edad media era de aproximadamente <span style="font-size: 1.5em; font-weight: bold; color: red;">6</span> años, mientras que para el Dominado subia casi al doble.
+Durante el período analizado, la duración media del reinado de los emperadores romanos fue de aproximadamente
+<span style="font-size: 1.5em; font-weight: bold; color: red;">8</span>
+años, que varía en funcion de la Era en la que nos encontremos. Para el Principado, la edad media era de aproximadamente
+<span style="font-size: 1.5em; font-weight: bold; color: red;">6</span>
+años, mientras que para el Dominado subia casi al doble.
 
 ### Causa de Muerte más Común
 
