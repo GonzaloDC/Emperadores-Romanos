@@ -1,7 +1,7 @@
 
 # Análisis de los Emperadores Romanos
 
-En este proyecto, se han examinado datos históricos sobre los emperadores romanos, sus causas de muerte, duración de reinado y más.
+En este proyecto, se han examinado datos históricos sobre los emperadores romanos, sus causas de muerte, duración de reinado y más. Cabe destacar que el período estudiado engloba desde el 26 AC hasta el 395 DC, que contiene las Eras Principado (27 AC - 284 DC) y Dominado (284-565 DC)
 
 ## Visualizaciones
 
